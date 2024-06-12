@@ -4,11 +4,241 @@
     box-sizing: border-box;
 }
 
-nav{
-    width:90%;
+h1{
+    display: flex;
+    font-size: 60px;
+    letter-spacing: 1px;
+    color: #000000;
+    align-items: center;
+    flex-direction: column;
+}
+a{
+    display: flex;
+    text-decoration: none;
+    color: rgb(51, 50, 50);
+    font-size: 20px;
+    align-items: center;
+    flex-direction: column;
+}
+.container1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: bisque;
+}
+.design1 img{
+    height: 80px;
+    object-fit:fill;
+}
+.design1 {
+    width: 90%;
+    margin: auto;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.design1 ul {
+    display: flex;
+    list-style-type: none;  
+}
+.design1 ul li{
+    margin:0 5px;
+}
+.design1 a{
+    text-decoration: none;
+    padding: 0.3rem 2.3rem;
+    font-size: 18px;
+    font-weight: bold;
+    color: #0f0a00;
+    position: relative;
+    z-index: 1;
+    font-family: Rockwell Extra Bold,Rockwell Bold,monospace; 
+}
+.design1 ul a::after{
+    content: "";
+    width: 0%;
+    height: 100%;
+    position: absolute;
+    top:0;
+    left:0px;
+    border-radius: 20px;
+    background-color:  rgb(170, 143, 107);
+    z-index: -1;
+    transition: 0.5s;
+    border-radius: 100%;
+}
+.design1 ul a:hover:after{
+    width: 100%;
+}
+
+/*design 2*/
+.container2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0e68c;
+    padding: 20px 0;
+}
+
+.design2 {
+    width: 100%;
+    max-width: auto;
+    margin: auto;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff8dc;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 10px 50px;
+}
+
+.design2 img {
+    height: 90px;
+    object-fit: cover;
+}
+
+.design2 ul {
+    display: flex;
+    list-style-type: none;  
+}
+
+
+.design2 a {
+    text-decoration: none;
+    padding: 0.3rem 3.3rem;
+    font-size: 20px;
+    font-weight: bold;
+    color: #494234;
+    position: relative;
+    z-index: 1;
+    transition: color 0.3s, background-color 0.3s;
+    font-family: Papyrus,fantasy; 
+}
+
+.design2 button{
+   display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    border:0;
+    outline:0;
+    border-radius: 5%;
+    background-color: #494234;
+    font-weight: 500;
+    cursor: pointer;
+    color: #fff;
+    font-size: 20px;
+    transition:  color 0.3s,background-color 0.3s;
+    font-family: Papyrus,fantasy; 
+}
+
+.design2 button:hover{
+    color: #494234;
+    background-color: #fff8dc;
+    border-radius: 5px;
+}
+.design2 a:hover {
+    color: #fff;
+    background-color: #494234;
+    border-radius: 5px;
+}
+
+
+/* design 3*/
+
+.container3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #6c5102;
+    padding: 20px;
+}
+
+
+.design3 {
+    width: 90%;
+    max-width: 1200px;
     margin: auto;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-top: 20px ;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    color: #333;
+}
+
+
+.design3 img {
+    height: 90px;
+    object-fit: cover;
+    border-radius: 50%;
+    transition: transform 0.3s ease-in-out;
+}
+
+
+.design3 ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+
+.design3 ul li {
+    margin: 10px 50px;
+}
+
+
+.design3 a {
+    text-decoration: none;
+    padding: 0.3rem 1.3rem;
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+    transition: color 1.0s, background-color 0.3s;
+    font-family: Rockwell,Courier Bold,Courier,Georgia,Times,Times New Roman,serif; 
+}
+
+
+.design3 a:hover {
+    color: #fff;
+    background-color:  #494234;
+    border-radius: 100px;
+    animation: backwards;
+}
+
+
+@keyframes buttonScale {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+
+.design3 button {
+    border: none;
+    padding: 0.3rem 1.3rem;
+    font-size: 17px;
+    font-weight: bold;
+    color: #fff;
+    background-color:  #494234;
+    border-radius: 100px;
+    cursor: pointer;
+    animation: buttonScale 1.5s infinite;
+}
+
+/* design 4*/
+.design4{
+    
 }
