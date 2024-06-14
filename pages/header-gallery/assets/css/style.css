@@ -11,12 +11,14 @@ h1{
     color: #000000;
     align-items: center;
     flex-direction: column;
+    border-top:dotted 5px #000000;
+    border-bottom:dotted 5px #000000;
 }
 a{
     display: flex;
     text-decoration: none;
     color: rgb(51, 50, 50);
-    font-size: 20px;
+    font-size: 25px;
     align-items: center;
     flex-direction: column;
 }
@@ -34,7 +36,7 @@ a{
 .design1 {
     width: 90%;
     margin: auto;
-    padding-top: 20px;
+    padding-top: 10px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -49,7 +51,7 @@ a{
 .design1 a{
     text-decoration: none;
     padding: 0.3rem 2.3rem;
-    font-size: 18px;
+    font-size: 25px;
     font-weight: bold;
     color: #0f0a00;
     position: relative;
@@ -199,6 +201,8 @@ a{
     justify-content: center;
     background-color: #402e0a;
     padding: 20px;
+    border-bottom: solid 10px rgb(255, 218, 8);
+    border-top: solid 10px rgb(255, 218, 8);
 }
 
 .design4 {
@@ -220,40 +224,49 @@ img {
     padding: 10px 40px;
 }
 
+/* design 5*/
+.design5 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ccb674;
+    padding: 10px;
+    border-radius: 8px;
+}
 
+.design5 img {
+    width: 80px;
+    height: auto;
+    margin-right: 10px;
+    transition: transform 0.3s ease-out;
+}
 
+.design5 a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    border-radius: 5px;
+    position: relative;
+    font-size: 30px;
+    padding-right: 5%;
+    align-items: center;
 
-
-
-
-
-
-
-
-
-
-
-
-
+}
+.design5 a span {
+    position: absolute;
+    width: 80%;
+    height: 5px;
+    background-color:  #402e0a;
+    bottom: 0;
+    left: 0;
+    transform: scaleX(0);
+    transform-origin: bottom right;
+    transition: transform 0.3s ease-out;
+}
 
 
 /*animated design*/
-h1{
-    display: flex;
-    font-size: 60px;
-    letter-spacing: 1px;
-    color: #000000;
-    align-items: center;
-    flex-direction: column;
-}
-a{
-    display: flex;
-    text-decoration: none;
-    color: rgb(51, 50, 50);
-    font-size: 20px;
-    align-items: center;
-    flex-direction: column;
-}
+
 .container-Animation1 {
     display: flex;
     align-items: center;
@@ -282,7 +295,7 @@ a{
 .Animation1 a{
     text-decoration: none;
     padding: 0.3rem 2.3rem;
-    font-size: 18px;
+    font-size: 25px;
     font-weight: bold;
     color: #0f0a00;
     position: relative;
@@ -534,7 +547,7 @@ nav.Animation3 img:hover {
     transform: scaleX(1);
 }
 nav.Animation4 img:hover {
-    transform: scale(1.1); 
+    transform: scale(1.1);
 }
 
 /* design 5*/
@@ -548,10 +561,10 @@ nav.Animation4 img:hover {
 }
 
 .Animation5 img {
-    width: 80px; 
+    width: 80px;
     height: auto;
     margin-right: 10px;
-    transition: transform 0.3s ease-out; 
+    transition: transform 0.3s ease-out;
 }
 
 .Animation5 a {
@@ -598,5 +611,5 @@ nav.Animation4 img:hover {
 
 
 .Animation5 img:hover {
-    transform: rotate(360deg) scale(1.1); /* Rotate and scale the image on hover */
+    transform: rotate(360deg) scale(1.1);
 }
