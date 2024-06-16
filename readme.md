@@ -51,18 +51,17 @@
 ## Overview
 
 
-<!-- The following are just sample -->
 Description of the project in details.
 
 Guiding Question:
 - What is the project
+This project is about creating diffeerent design and animation for header and footer of a website.
 - Whats the purpose
-- What are key components
-- What technology used and how it is used
+The purpose of this project it to deliver attractive and practical elements that boost the website's user experience and strengthen brand identity. The designs should appeal to a wide range of interests and styles, providing consumers with several options.
+
 
 ### Key Components
 
-<!-- The following are just sample -->
 - MultiPage Website
 - Hover Effect
 - Hover Glow Effect
@@ -112,3 +111,14 @@ WD-ProjectName
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
 |Github|Get some ideas|https://github.com/zyx-0314/WD-Seatwork-3|
+
+Responsive Footer design using Html & Css| Get some ideas|https://youtu.be/JViuPwlP1mU?si=bni564hiJzeDZOP0
+
+How to make website using HTML and CSS| Get some ideas|https://youtu.be/10Z6UIe7R1E?si=VSjPyabWcfPaRTQh
+
+Simple Responsive Footer Design using HTML and CSS| Get some ideas|https://youtu.be/2-5LpaN2LF8?si=ttJ_nAv1lEHA1S0I
+Animated Navigation Bar in HTML and CSS, Menu Hover Animation Effects | Get some ideas | https://youtu.be/-4VdbyikbZU?si=51VFDgD7fu9R8zsw
+
+Animated Navigation Menu Bar using HTML CSS, Animated Tabs with Indicator| Get some ideas| https://youtu.be/DQU4YSc-bPU?si=r1kqzOHFEGqQB4xQ
+
+Creating website landing page using HTML and CSS| Get some ideas|https://youtu.be/XlxhEy4pAI0?si=DMM6BKuy6Sgbgddn
