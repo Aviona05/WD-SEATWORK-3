@@ -108,19 +108,11 @@ WD-ProjectName
 
 
 | Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
 
-|Github|Get some ideas for landing page and flow of the code|https://github.com/zyx-0314/WD-Seatwork-3|
 
-|Responsive Footer design using Html & Css| Get some ideas|https://youtu.be/JViuPwlP1mU?si=bni564hiJzeDZOP0|
-
-|How to make website using HTML and CSS| Get some ideas for header design and animations|https://youtu.be/10Z6UIe7R1E?si=VSjPyabWcfPaRTQh|
-
-|Simple Responsive Footer Design using HTML and CSS| Get some ideas|https://youtu.be/2-5LpaN2LF8?si=ttJ_nAv1lEHA1S0I|
-
-|Animated Navigation Bar in HTML and CSS, Menu Hover Animation Effects | Get some ideas for animation | https://youtu.be/-4VdbyikbZU?si=51VFDgD7fu9R8zsw|
-
-|Animated Navigation Menu Bar using HTML CSS, Animated Tabs with Indicator| Get some ideas for animation| https://youtu.be/DQU4YSc-bPU?si=r1kqzOHFEGqQB4xQ|
-
-|Creating website landing page using HTML and CSS| Get some ideas for header design and animation|https://youtu.be/XlxhEy4pAI0?si=DMM6BKuy6Sgbgddn|
+| Github|Get some ideas for landing page and flow of the code |https://github.com/zyx-0314/WD-Seatwork-3 |
+| Responsive Footer design using Html & Css| Get some ideas | https://youtu.be/JViuPwlP1mU?si=bni564hiJzeDZOP0 |
+| How to make website using HTML and CSS| Get some ideas for header design and animations | https://youtu.be/10Z6UIe7R1E?si=VSjPyabWcfPaRTQh |
+|Simple Responsive Footer Design using HTML and CSS| Get some ideas|https://youtu.be/2-5LpaN2LF8?si=ttJ_nAv1lEHA1S0I|| Animated Navigation Bar in HTML and CSS, Menu Hover Animation Effects | Get some ideas for animation | https://youtu.be/-4VdbyikbZU?si=51VFDgD7fu9R8zsw|
+| Animated Navigation Menu Bar using HTML CSS, Animated Tabs with Indicator| Get some ideas for animation | https://youtu.be/DQU4YSc-bPU?si=r1kqzOHFEGqQB4xQ |
+| Creating website landing page using HTML and CSS| Get some ideas for header design and animation | https://youtu.be/XlxhEy4pAI0?si=DMM6BKuy6Sgbgddn |
