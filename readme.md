@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/zyx-0314/">\
-  <img src="./img/BEAR.png" alt="BEAR" width="130" height="100">
+  <img src="/assets/img/BEAR.png" alt="BEAR" width="130" height="100">
   </a>
 
   <h3 align="center">SEATWORK 3</h3>
@@ -112,17 +112,17 @@ WD-ProjectName
 |-|-|-|
 
 |Github|Get some ideas for landing page and flow of codes|https://github.com/zyx-0314/WD-Seatwork-3|
-|-|-|-|
+
 |Simple Responsive Footer Design using HTML and CSS|Get some ideas|https://youtu.be/2-5LpaN2LF8?si=ttJ_nAv1lEHA1S0I|
-|-|-|-|
+
 |Animated Navigation Bar in HTML and CSS Menu Hover Animation Effects|Get some ideas|https://youtu.be/-4VdbyikbZU?si=51VFDgD7fu9R8zsw|
-|-|-|-|
+
 |Responsive Footer design using Html & Css|Get some ideas|https://youtu.be/JViuPwlP1mU?si=bni564hiJzeDZOP0|
-|-|-|-|
+
 |Creating website landing page using HTML and CSS|Get some ideas for header design and animation|https://youtu.be/XlxhEy4pAI0?si=DMM6BKuy6Sgbgddn |
-|-|-|-|
+
 |Animated Navigation Menu Bar using HTML CSS, Animated Tabs with Indicator |Get some ideas for animation|https://youtu.be/DQU4YSc-bPU?si=r1kqzOHFEGqQB4xQ|
-|-|-|-|
+
 |How to make website using HTML and CSS|Get some ideas|https://youtu.be/10Z6UIe7R1E?si=VSjPyabWcfPaRTQh|
 |-|-|-|
 
